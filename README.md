@@ -1,5 +1,5 @@
 Code for the Neural GPU model originally described in
-[[http://arxiv.org/abs/1511.08228]].
+(http://arxiv.org/abs/1511.08228).
 
 
 Running experiments
